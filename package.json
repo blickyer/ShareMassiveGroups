@@ -1,0 +1,16 @@
+{
+  "name": "Share Massive Facebook Groups",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.html",
+  "author": "",
+  "window": {
+    "toolbar": false,
+    "width": 800,
+    "height": 500
+  },
+  "license": "MIT",
+  "dependencies": {
+
+  }
+}

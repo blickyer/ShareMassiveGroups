@@ -1,2 +1,9 @@
-# ShareMassiveGroups
-Compartir publicaciones en varios grupos de facebook a la vez.
+Share Massive Groups
+==============
+
+`npm install`
+
+`bower install`
+
+Descargar nw.js
+

@@ -1,0 +1,10 @@
+{
+    "name": "MAP",
+    "description": "HTML5 Max Audio Player",
+    "version": "1.0.0",
+    "dependencies": {
+        "fontawesome": "*",
+        "normalize.css": "*",
+        "angular": "*"
+    }
+}
